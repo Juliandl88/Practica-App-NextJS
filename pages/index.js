@@ -5,8 +5,8 @@ export default function Home() {
     <div >
       <h1>Practicas con NextJs</h1>
       <div>
-      <Link href="/post">
-        <button type="button"><a>Post</a></button>
+      <Link href="/users">
+        <button type="button"><a>USER</a></button>
       </Link>
       </div>
     </div>
