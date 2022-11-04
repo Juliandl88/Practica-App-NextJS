@@ -1,8 +1,12 @@
-
+import Navbar from "../../components/navbar"
 
 function Users() {
   return (
-    <div>User</div>
+    
+    <div>
+    <Navbar/>
+    <h1>User</h1>
+    </div>
   )
 }
 
