@@ -5,7 +5,7 @@ function Users() {
     
     <div>
     <Navbar/>
-    <h1>Users</h1>
+    <h1>User</h1>
     </div>
   )
 }
