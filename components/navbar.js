@@ -7,7 +7,7 @@ export default function Navbar() {
         <a>Home</a>
       </Link>
       <Link href="/users">
-        <a>Users</a>
+        <a>User</a>
       </Link>
       <Link href="/posts">
         <a>Posts</a>
