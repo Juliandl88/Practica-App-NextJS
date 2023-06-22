@@ -5,7 +5,7 @@ export default function Post() {
   return (
     <div>
     <Navbar/>
-    <h1>POSTEOS</h1>
+    <h1>POST</h1>
     </div>
   )
 }
