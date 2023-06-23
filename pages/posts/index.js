@@ -5,7 +5,7 @@ export default function Post() {
   return (
     <div>
     <Navbar/>
-    <h1>POST</h1>
+    <h1>POST NUEVOS</h1>
     </div>
   )
 }

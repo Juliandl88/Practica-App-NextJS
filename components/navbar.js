@@ -4,13 +4,13 @@ export default function Navbar() {
   return (
     <nav>
       <Link href="/">
-        <a>Inicio</a>
+        <a>Home</a>
       </Link>
       <Link href="/users">
-        <a>Usuarios</a>
+        <a>Users</a>
       </Link>
       <Link href="/posts">
-        <a>Posts</a>
+        <a>Post</a>
       </Link>
     </nav>
   );
