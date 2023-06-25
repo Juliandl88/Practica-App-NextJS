@@ -10,7 +10,7 @@ export default function Navbar() {
         <a>Users</a>
       </Link>
       <Link href="/posts">
-        <a>Post</a>
+        <a>Posteos</a>
       </Link>
     </nav>
   );
