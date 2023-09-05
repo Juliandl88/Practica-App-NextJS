@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Practicas con NextJS</h1>
       <div>
       <Link href="/users">
-        <button type="button"><a>USUARIO</a></button>
+        <button type="button">USERS</button>
       </Link>
       </div>
     </div>
